@@ -78,7 +78,6 @@ http://localhost:5000
 ```
 
 
-output:
-![Uploading Screenshot 2026-06-25 162122.png…]()
+
 
 
